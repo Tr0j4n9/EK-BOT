@@ -9,11 +9,11 @@
         <hr>
         <h4>Check the 4.9 branch for the current development status</h4>
         <hr>
-        <h2>Using the Official Mantaro Bot</h2>
-        <p><b><i>Just one <a href="https://is.gd/mantaro">click</a> and you can add Mantaro to your own server and enjoy its full feature set!</i></b></p>
+        <h2>Using the Official EK Bot</h2>
+        <p><b><i>Just one <a href="http://nothing.nothing">click</a> and you can add EK to your own server and enjoy its full feature set!</i></b></p>
         <hr>
-        <h2>Building Mantaro on your own</h2>
-        <p><b>WARNING</b>: The owners of Mantaro do not</b> recommend compiling Mantaro as it is not documented and most builds here will be extremely unstable and (probably) untested, probably including unfinished features.<br>If you still want to build your own instance of Mantaro, you will need multiple api keys including <b>(but not limited to)</b></p> 
+        <h2>Building EK on your own</h2>
+        <p><b>WARNING</b>: The owners of EK do not</b> recommend compiling Mantaro as it is not documented and most builds here will be extremely unstable and (probably) untested, probably including unfinished features.<br>If you still want to build your own instance of Mantaro, you will need multiple api keys including <b>(but not limited to)</b></p> 
         <ul>
             <li>osu! API</li>
             <li>AniList API</li>
@@ -36,7 +36,7 @@
             <li>In config.json, set the value needApi to false.</li>
         </ol>
         <hr>
-        <h2>Mantaro Uses and loves</h2>
+        <h2>EK Uses and loves</h2>
         <ul>
             <li><a href="https://github.com/DV8FromTheWorld/JDA">JDA by DV8FromTheWorld and MinnDevelopment</a></li>
             <li><a href="https://github.com/sedmelluq/lavaplayer">Lavaplayer by sedmelluq</a></li>
