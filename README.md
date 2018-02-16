@@ -2,7 +2,7 @@
 <html>
     <header>
         <img align="right" src="https://i.imgur.com/SWDen2V.png" height="220" width="220">
-        <h1>Mantaro</h1>
+        <h1>EK</h1>
         <p><b>Complete and configurable music, currency and games multipurpose Discord bot!</b></p>
     </header>
     <body>
